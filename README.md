@@ -23,9 +23,13 @@ Follow the steps below to start your journey:
 
 6- When setup is complete, restart your MT5 desktop app to complete the installation. In the Navigator panel, you will see a list of the
 following tools in the Expert Advisors:
+
   ○ Acuity Calendar
+  
   ○ Acuity Market Alerts
+  
   ○ Acuity Research Terminal
+  
   ○ Signal Center Trade Ideas
   
 7- In the Market Watch panel, right-click the mouse over any symbol and click Chart window. One new graph window will appear.
